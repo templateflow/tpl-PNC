@@ -1,5 +1,4 @@
 {
-  "Acknowledgements": "Curated and added to TemplateFlow by Ciric R",
   "Authors": [
     "Satterthwaite TD",
     "Connolly JJ",
@@ -20,7 +19,9 @@
     "Gur RE"
   ],
   "BIDSVersion": "1.1.0",
-  "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1}",
+  "Curators": [
+    "iric R"
+  ],
   "Identifier": "PNC",
   "License": "CC BY 4.0",
   "Name": "Philadelphia Neurodevelopmental Cohort template",
