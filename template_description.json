@@ -28,6 +28,7 @@
   "ReferencesAndLinks": [
     "https://doi.org/10.1016/j.neuroimage.2015.03.056"
   ],
+  "Species": "Homo sapiens",
   "TemplateFlowVersion": "1.0.0",
   "res": {
     "01": {
